@@ -1,0 +1,2 @@
+class RoseDiagram(Scene)
+    
